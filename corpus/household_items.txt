@@ -1,0 +1,9 @@
+# Household Items and Their Uses
+
+This document describes common items found in a home.
+
+A soft cushion is an item designed for comfort, typically placed on a chair or sofa. It is made of fabric and filled with a soft material like foam or feathers. It is by nature not brittle and has the property 'is_soft' as true. A typical cushion has a mass of about 1 kg.
+
+A ceramic tile floor is a common, durable flooring surface. The tiles are hard and rigid. If a heavy object is dropped on a ceramic tile floor, the tile is more likely to crack than the object, depending on the object's material.
+
+A wooden chair is a piece of furniture with a raised surface supported by legs. It is typically used for seating a single person. Wood is a relatively strong material but can be broken with sufficient force. Its mass varies greatly, but an average dining chair might have a mass of 5-7 kg. 

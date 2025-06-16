@@ -1,0 +1,22 @@
+# Physical Constants for Thermodynamic Simulation
+
+This document provides the necessary physical constants for simulating
+heat transfer between common substances.
+
+## Water/Ice
+- substance: water
+- state: liquid
+- specific_heat_capacity_J_per_kg_C: 4186
+- latent_heat_of_fusion_J_per_kg: 334000
+
+## Air
+- substance: air
+- state: gas
+- specific_heat_capacity_J_per_kg_C: 718
+- density_kg_per_m3: 1.225
+
+## Room
+- name: sealed_room
+- type: container
+- volume_m3: 27 # A 3m x 3m x 3m room
+- insulated: true 

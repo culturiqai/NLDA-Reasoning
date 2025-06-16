@@ -1,0 +1,9 @@
+# Materials Science Document
+
+This document covers the physical properties of various materials.
+
+Granite is a common type of felsic intrusive igneous rock that is granular and phaneritic in texture. It is known for being very hard and dense. While it is extremely strong under compression, it can be brittle and prone to fracture under sharp impacts, especially at scale. A typical block of granite has a mass of over 50 kg.
+
+Rubber is a polymer known for its high elasticity. This property allows it to deform under stress and return to its original shape. It is not brittle and will bounce rather than shatter upon impact. A ball made of rubber, such as a bouncy ball, typically has a mass of around 0.1 kg.
+
+Glass is an amorphous (non-crystalline) solid material. It is often transparent but can be translucent or opaque. Glass is a classic example of a brittle material, meaning it fractures when subjected to stress rather than deforming. A standard glass bottle might have a mass of 0.7 kg. 

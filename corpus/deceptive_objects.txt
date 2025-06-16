@@ -1,0 +1,7 @@
+The 'lead_balloon' is an object constructed from a very thin sheet of lead foil, shaped into a sphere and sealed to be airtight. Its primary material is lead, but it is hollow and contains only air. While lead itself is very dense, the balloon's large volume and low total mass give it unique properties when interacting with fluids.
+
+- mass_kg: 0.5
+- volume_m3: 0.075 (This is the volume of a sphere with a radius of ~0.26 meters)
+- is_brittle: false
+- filled_with: air
+- shell_material: lead 

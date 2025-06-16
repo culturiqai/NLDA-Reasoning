@@ -1,0 +1,7 @@
+# A Guide to Children's Toys
+
+This text describes different types of toys.
+
+A bouncy ball is a popular toy made from elastic material, typically a type of rubber. They are known for their high coefficient of restitution, meaning they bounce with very little energy loss. A standard bouncy ball is small and light, with a mass of 0.1 kg. It is not brittle.
+
+A porcelain doll is a collectible doll made either entirely or partially of bisque porcelain. They are known for their delicate, realistic features. Due to the nature of porcelain, these dolls are very brittle and will shatter if dropped. They are heavier than plastic dolls, with a mass of around 1.5 kg. 

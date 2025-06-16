@@ -1,0 +1,19 @@
+# Concepts in Kinematics and Collisions
+
+This document defines key concepts related to motion and interactions.
+
+## Elastic Collision
+- A collision in which the total kinetic energy of the system is conserved.
+- In an elastic collision, both momentum and kinetic energy are conserved.
+
+## Inelastic Collision
+- A collision in which kinetic energy is not conserved; some of it is converted into other forms of energy (like heat or sound).
+- A perfectly inelastic collision is one where the objects stick together after impact.
+- In all collisions, momentum is conserved.
+
+## Reference Frames
+- A coordinate system used to describe the motion of objects.
+- **Inertial Frame (Lab Frame):** A reference frame that is not undergoing acceleration. Newton's first law holds true in an inertial frame.
+- **Non-Inertial Frame (Rotating Frame):** A reference frame that is accelerating. To describe motion in a non-inertial frame, one must introduce fictitious forces (pseudo-forces).
+- **Coriolis Force:** A fictitious force that acts on objects in motion within a rotating frame of reference. It acts perpendicular to the direction of motion and to the axis of rotation.
+- **Centrifugal Force:** A fictitious force that appears to push a body away from the center of rotation in a rotating frame. 

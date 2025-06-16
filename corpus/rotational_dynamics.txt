@@ -1,0 +1,27 @@
+# Concepts in Rotational Dynamics
+
+This document defines key concepts related to the motion of rotating bodies.
+
+## Angular Velocity (ω)
+- A vector quantity describing the rate of rotation of an object.
+- Units: radians per second (rad/s)
+
+## Moment of Inertia (I)
+- A measure of an object's resistance to changes in its rotation. It is the rotational equivalent of mass.
+- For a solid disk or cylinder rotating about its center: I = 0.5 * m * r^2
+- For a point mass: I = m * r^2
+- The total moment of inertia of a system is the sum of the moments of inertia of its components.
+- Units: kg·m²
+
+## Torque (τ)
+- The rotational equivalent of force. A torque is a twist or turn that tends to produce rotation.
+- τ = I * α (where α is angular acceleration)
+- Also defined as the rate of change of angular momentum.
+- Units: Newton-meters (N·m)
+
+## Angular Momentum (L)
+- The rotational equivalent of linear momentum.
+- For a rigid body: L = I * ω
+- For a point particle: L = r x p (where p is linear momentum mv)
+- In a closed system with no external torques, total angular momentum is conserved.
+- Units: kg·m²/s 
