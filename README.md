@@ -1,8 +1,7 @@
-# The Nalanda Architecture (NLDA)
+# The Nalanda Architecture (NLDA) A self-correcting, causal reasoning engine for building robust AI
 
-**A self-correcting, causal reasoning engine for building robust AI.**
 
-[![Python Test CI](https://github.com/your-username/nlda/actions/workflows/python-test.yml/badge.svg)](https://github.com/your-username/nlda/actions/workflows/python-test.yml)
+[![Python Test CI](https://github.com/culturiq/NLDA-Reasoning/actions/workflows/python-test.yml/badge.svg)](https://github.com/culturiq/NLDA-Reasoning/actions/workflows/python-test.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 NLDA is a Python-based framework for creating Artificial General Intelligence that moves beyond simple statistical mimicry. Inspired by the "Science of Mind" from the ancient Nalanda university, this architecture is designed to be **hybrid, grounded, skeptical, and continuously learning.**
